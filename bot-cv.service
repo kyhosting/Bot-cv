@@ -1,0 +1,15 @@
+[Unit]
+Description=CV Telegram Bot Service
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/Bot-cv
+ExecStart=/root/Bot-cv/venv/bin/python /root/Bot-cv/main.py
+Restart=always
+RestartSec=10
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target
