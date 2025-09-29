@@ -1,0 +1,50 @@
+{
+  "6807264289": {
+    "expired": "2025-06-15 12:34:56",
+    "name": "-",
+    "username": "-",
+    "saldo": 0,
+    "log": [],
+    "is_trial": false
+  },
+  "1234567890": {
+    "expired": null,
+    "name": "-",
+    "username": "-",
+    "saldo": 0,
+    "log": [],
+    "is_trial": false
+  },
+  "6878405664": {
+    "expired": "2025-06-16 18:15:07",
+    "name": "-",
+    "username": "-",
+    "saldo": 0,
+    "log": [],
+    "is_trial": false
+  },
+  "91838299": {
+    "expired": null,
+    "name": "-",
+    "username": "-",
+    "saldo": 0,
+    "log": [],
+    "is_trial": false
+  },
+  "6741435763": {
+    "expired": "2025-05-17 12:42:32",
+    "name": "-",
+    "username": "-",
+    "saldo": 0,
+    "log": [],
+    "is_trial": false
+  },
+  "7390372819": {
+    "expired": "2025-06-16 12:42:02",
+    "name": "-",
+    "username": "-",
+    "saldo": 0,
+    "log": [],
+    "is_trial": false
+  }
+}
